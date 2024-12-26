@@ -1,0 +1,7 @@
+.some-text {
+  background: linear-gradient(to right, transparent, #d3d3d3);
+}
+
+.some-text2 {
+  background: linear-gradient(to left, transparent, purple);
+}
